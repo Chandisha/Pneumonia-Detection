@@ -17,6 +17,7 @@ The model is trained using a dataset of chest X-ray images, and it classifies im
 
 1. NORMAL
 2. PNEUMONIA
+
 After training the model, it can be used to predict the class (NORMAL or PNEUMONIA) of new chest X-ray images.
 
 ## Installation
