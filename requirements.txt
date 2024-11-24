@@ -1,0 +1,7 @@
+tensorflow    # The primary library used to build and train the machine learning model (version 2.11.0 is specified, but you can update it based on your needs).
+numpy    # Essential for handling numerical operations and arrays.
+pandas    # Helps with data manipulation and analysis (useful for managing datasets).
+matplotlib    # A plotting library used for visualizing model performance, loss, accuracy, etc.
+opencv-python    # Used for image processing tasks.
+scikit-learn    # Includes tools for data preprocessing and metrics (useful for validation).
+Pillow    # A Python Imaging Library (PIL) fork, used for loading, processing, and saving images.
