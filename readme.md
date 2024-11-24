@@ -4,12 +4,11 @@ This project uses a Convolutional Neural Network (CNN) to detect pneumonia in ch
 ## Table of Contents
 1. Overview
 2. Installation
-3. Project Structure
+3. Prerequisities
 4. How to Use
 5. Training the Model
 6. Testing the Model
-7. Example Output
-8. License
+7. Results and Performance
 
 ## Overview
 Chest X-rays are commonly used to detect pneumonia. Pneumonia can be challenging to diagnose, and a machine learning model can help assist medical professionals by automatically analyzing X-ray images. This project uses TensorFlow and Keras to build a deep learning model that classifies chest X-ray images as either normal or indicating pneumonia.
