@@ -1,3 +1,4 @@
-tensorflow    # The primary library used to build and train the machine learning model (version 2.11.0 is specified, but you can update it based on your needs).
-numpy    # Essential for handling numerical operations and arrays.
-pandas    # Helps with data manipulation and analysis (useful for managing datasets).
+tensorflow    
+numpy    
+pandas   
+os
